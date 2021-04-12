@@ -4,15 +4,18 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "start": "node server.js"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
     "jquery": "^3.6.0",
     "mmenu-js": "^8.5.22",
     "owl.carousel": "^2.3.4",
     "popper.js": "^1.16.1",
+    "serve-static": "^1.14.1",
     "vue": "^2.6.11",
     "vue-owl-carousel": "^2.0.3",
     "vue-router": "^3.2.0",
