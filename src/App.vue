@@ -43,6 +43,9 @@
 <script src="@/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="@/assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
 <script src="@/assets/js/script.js"></script>-->
-<style lang="sass">
+<style>
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+.row {
+  margin: 0 !important
+  }
 </style>
